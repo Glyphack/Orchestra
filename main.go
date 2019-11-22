@@ -15,8 +15,8 @@ limitations under the License.
 */
 package main
 
-import "orchestra/cmd"
+import "github.com/glyphack/orchestra/cmd"
 
 func main() {
-  cmd.Execute()
+	cmd.Execute()
 }
